@@ -1,0 +1,16 @@
+.NewWord {
+    text-align: center;
+    display: inline-block;
+    color: white;
+    text-transform: uppercase;
+    padding: 1rem;
+    background: transparent;
+    border: none;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .NewWord {
+      padding: 0.3rem;
+    }
+  }
+  

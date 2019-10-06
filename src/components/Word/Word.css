@@ -1,0 +1,32 @@
+.Word .Letter button,
+.Word .Letter {
+  color: transparent;
+  background-color: transparent;
+  border: solid white;
+  border-width: 0 0 3px 0;
+  border-radius: 0;
+  cursor: default;
+  box-shadow: none;
+  padding: 0 0 0.2rem 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .Word .Letter {
+    width: 0.4rem;
+  }
+}
+
+.Word .Letter button {
+  border: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .Word .Letter span {
+    font-size: large;
+  }
+}
+
+.Word .Letter.disabled button,
+.Word .Letter.dash {
+  color: white;
+}

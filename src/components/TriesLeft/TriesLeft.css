@@ -1,0 +1,15 @@
+.TriesLeft {
+    text-align: center;
+    display: inline-block;
+    color: white;
+    cursor: default;
+    padding: 1rem;
+    text-transform: uppercase;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .TriesLeft {
+      padding: 0.3rem;
+    }
+  }
+  
