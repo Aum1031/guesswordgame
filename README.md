@@ -14,13 +14,13 @@ Clone this repo and run following at the root level
 * NPM v6.9.2
 
 ### How to play the game
-* Build the project locally or head over to https://aum1031.github.io/guesswordgame/ (you have to disbale the browser protection to see and play the game because Loading mixed (insecure) active content “http://app.linkedin-reach.io/words” on a secure page)
+* Build the project locally or head over to https://aum1031.github.io/guesswordgame/ (you have to disbale the browser(firefox prefered) protection to see and play the game because Loading mixed (insecure) active content “http://app.linkedin-reach.io/words” on a secure page)
 * Use keyboard or on screen keyboard to enter the letters
 * You have six tries to guess the word
 * Click on NEW GAME to start a new game
   
 ### Note
-* CORS issue, to get around the cors issue, temporarily turn of the cors by using chrome/firefox extension
+* CORS issue(local development), to get around the cors issue, temporarily turn of the cors by using chrome/firefox extension
   
 ## Available Scripts
 
