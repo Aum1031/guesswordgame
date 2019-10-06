@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Project: Guessing Game
 
 ### Get started
-Clone this repo and run following
+Clone this repo and run following at the root level
 ### `npm install`
 
 ### Dependencies
