@@ -20,7 +20,7 @@ Clone this repo and run following at the root level
 * Click on NEW GAME to start a new game
   
 ### Note
-* CORS issue(local development), to get around the cors issue, temporarily turn of the cors by using chrome/firefox extension
+* CORS issue, to get around the cors issue, temporarily turn of the cors by using chrome/firefox extension
   
 ## Available Scripts
 
